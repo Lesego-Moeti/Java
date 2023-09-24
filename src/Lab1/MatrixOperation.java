@@ -45,7 +45,7 @@ public class MatrixOperation {
                 if(operation.equals("addition")||operation.equals("multiplication")){
                     for (int i = 0; i< rows; i++){
                         for(int j= 0; j< columns; j++){
-                            if( operation.equals("addtion")){
+                            if( operation.equals("addition")){
                         resultMatrix[i][j] = matrixA[i][j] + matrixB[i][j];
 
                             } else{
