@@ -1,0 +1,5 @@
+Smallest number: -5
+Largest number: 345
+Average: 61.3
+Full name: Lesego Moeti
+Student ID: 21000641
